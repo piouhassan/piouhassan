@@ -30,3 +30,16 @@
 <br />
 
 ---
+
+You can find me  on [![LinkedIn][3.2]][3]
+
+<img align="left" width="26px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" />
+
+
+<br />
+<br />
+
+---
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
