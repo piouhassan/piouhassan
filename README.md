@@ -10,7 +10,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### You can find me on :
 
-<a href="https://www.linkedin.com/in/hassan-piou-a16436180/"><img align="left" width="26px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" /><a/>
+<a href="https://www.linkedin.com/in/hassan-piou-a16436180/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/><a/>
  
 <br />
 <br />
@@ -22,6 +22,10 @@ When I'm not developing and building things, you can find me on Youtube learning
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
+
+<img  align="left" width="26px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+
+
 <img align="left" alt="NPM" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
@@ -34,6 +38,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img  align="left" width="26px" src="https://img.icons8.com/color/48/000000/github-2.png"/>
+<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 
 
