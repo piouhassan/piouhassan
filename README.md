@@ -42,4 +42,4 @@ You can find me  on [![LinkedIn][3.2]][3]
 ---
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HassanPIOU&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=HassanPIOU&show_icons=true&theme=radical)
