@@ -1,9 +1,5 @@
-## Hi there, I'm Hassan PIOU 🤓
+# Hi there, I'm Hassan PIOU 🤓
 
-
-### I'm a Full Stack Developer  
-
-<h2 align="center">Hello! My name is Hassan PIOU</h2>
 <p align="left">I'm a Full Stack developer , Mobile developer, and junior team manager  from TOGO.
 I'm also currently doing my Bsc in IT while working on my company and other projects.
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
@@ -19,7 +15,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 <br />
 <br />
 
-#### <h2 align="center">✍ My Languages , framworks and tools: 🤓🤓🤓</h2> 
+#### <h2 align="">✍ My Languages , framworks and tools: 🤓🤓🤓</h2> 
 
 <img align="left" alt="IntelliJ idea" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
