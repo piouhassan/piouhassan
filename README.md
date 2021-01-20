@@ -17,14 +17,19 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 #### <h2 align="">✍ My Languages , framworks and tools: 🤓🤓🤓</h2> 
 
+<img  align="left" width="26px" src="https://github.com/HassanPIOU/HassanPIOU/blob/main/images/phpstorm.png"/>
 <img align="left" alt="IntelliJ idea" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img align="left" width="26px"  src="https://img.pngio.com/android-studio-logo-android-studio-mobile-app-development-android-studio-png-750_450.png" alt="Android Studio logo, Android Studio Mobile app development ...">
+
+
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
 
 <img  align="left" width="26px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
-
+<img  align="left" width="26px" src="https://github.com/HassanPIOU/HassanPIOU/blob/main/images/laravel.png"/>
+<img  align="left" width="26px" src="https://github.com/HassanPIOU/HassanPIOU/blob/main/images/yii2.png"/>
 
 <img align="left" alt="NPM" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -39,6 +44,9 @@ When I'm not developing and building things, you can find me on Youtube learning
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img  align="left" width="26px" src="https://img.icons8.com/color/48/000000/github-2.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+
+
+
 
 
 
