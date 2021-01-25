@@ -16,7 +16,6 @@
 
 <img  align="left" width="26px" src="https://github.com/HassanPIOU/HassanPIOU/blob/main/images/phpstorm.png"/>
 <img align="left" alt="IntelliJ idea" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img align="left" width="26px"  src="https://img.pngio.com/android-studio-logo-android-studio-mobile-app-development-android-studio-png-750_450.png" alt="Android Studio logo, Android Studio Mobile app development ...">
 
 
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -32,7 +31,7 @@
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="Vue Js" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+
 
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>
