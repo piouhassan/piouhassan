@@ -14,8 +14,6 @@
 
 #### <h2 align="">✍ My Languages , framworks and tools: 🤓🤓🤓</h2> 
 
-<img  align="left" width="26px" src="https://github.com/HassanPIOU/HassanPIOU/blob/main/images/phpstorm.png"/>
-
 
 
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
