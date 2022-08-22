@@ -11,12 +11,12 @@
       "work" : "Full Stack Developer",
       "freelance" : 1,
       "phone" : "(228) 92 36 35 33",
-      "cv" : "https://raw.githubusercontent.com/HassanPIOU/HassanPIOU/a2d7ed6e2389c99fe8e8888d7e0342726df53605/HassanPiouEn.pdf"
+      "cv" : "https://raw.githubusercontent.com/piouhassan/piouhassan/a2d7ed6e2389c99fe8e8888d7e0342726df53605/HassanPiouEn.pdf"
     },
     "sociales" : {
       "gmail" : "piouhassan@gmail.com",
       "skype" : "live:piouladere",
-      "github" : "https://github.com/HassanPIOU",
+      "github" : "https://github.com/piouhassan",
       "linkedin" : "https://www.linkedin.com/in/hassan-piou-a16436180/"
 
     },
@@ -110,7 +110,7 @@
         "content" : "Management from creation to deployment of your applications from A to Z."
       },
       {
-        "title" : "Coching",
+        "title" : "Coaching",
         "content" : "Coaching and sponsorship of Junior developers to show them good practices."
       }
     ],
