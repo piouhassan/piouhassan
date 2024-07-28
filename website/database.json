@@ -1,0 +1,802 @@
+{
+  "services" : [
+    {
+    "id" : 1,
+    "key" : "web-development",
+    "name" : "Developpement web",
+    "description": "nous sommes passionnés par le développement d'applications web innovantes. Nos experts en technologie travaillent en étroite collaboration avec vous pour créer des solutions sur mesure, alliant design intuitif, performance optimale et sécurité avancée.",
+    "picture" : "/pictures/web-development/01.jpg",
+    "detail" : [
+    {
+      "type" : "text",
+      "title" : "Ce que Nous Offrons :",
+        "paragraph" : [
+          {
+            "title" : "Développement Sur Mesure : ",
+            "text" : "Chaque entreprise est unique, et nous croyons que vos solutions numériques devraient l'être aussi. Notre équipe de développeurs chevronnés travaille en étroite collaboration avec vous pour créer des applications web sur mesure, alignées sur vos objectifs commerciaux spécifiques."
+          },
+
+          {
+            "title" : "Technologies de Pointe : ",
+            "text" : "Nous restons à la pointe des dernières technologies pour vous offrir des applications web performantes et sécurisées. Qu'il s'agisse de développement front-end avec des interfaces utilisateur intuitives ou de back-end robuste, nous maîtrisons une gamme étendue de technologies pour répondre à vos besoins."
+          },
+          {
+            "title" : "Expérience Utilisateur Exceptionnelle : ",
+            "text" : "Nous accordons une importance primordiale à l'expérience utilisateur. Nos applications sont conçues pour être conviviales, engageantes et adaptées aux besoins de vos utilisateurs finaux."
+          },
+          {
+            "title" : "Soutien Continu : ",
+            "text" : "Notre engagement envers votre succès ne se termine pas à la livraison du produit final. Nous offrons un soutien continu pour nous assurer que vos applications fonctionnent de manière optimale et restent à jour avec l'évolution de vos besoins."
+          }
+        ]
+    },
+    {
+      "type" :  "picture",
+       "pictures" : [
+         {"picture" :  "/pictures/web-development/02.jpg"},
+         {"picture" :  "/pictures/web-development/03.jpg"},
+         {"picture" :  "/pictures/web-development/04.jpg"},
+         {"picture" :  "/pictures/web-development/05.jpg"}
+       ]
+    },
+    {
+      "type" : "text",
+      "title" : "Pourquoi Choisir TechNCtrl ?",
+      "paragraph" : [
+        {
+          "title" : "Expertise Technique : ",
+          "text" : "Avec une équipe talentueuse de développeurs passionnés, nous sommes fiers de notre expertise technique approfondie."
+        },
+        {
+          "title" : "Collaboration Transparente : ",
+          "text" : "Nous croyons en une collaboration ouverte et transparente. À chaque étape du processus de développement, vous serez informé et impliqué."
+        },
+        {
+          "title" : "Solutions Évolutives : ",
+          "text" : "Nos applications sont conçues pour évoluer avec votre entreprise. Nous anticipons les besoins futurs pour vous offrir des solutions évolutives.\n\n"
+        },
+        {
+          "title" : "Nous Aimons les Défis : ",
+          "text" : "Des projets simples aux défis complexes, nous aimons relever tous les défis de développement d'applications web."
+        }
+      ]
+    }
+    ]
+    },
+    {
+    "id" : 2,
+    "key" : "mobile-development",
+    "name" : "Developpement Mobile",
+    "picture" : "/pictures/mobile-development/01.jpg",
+    "description": "Découvrez une nouvelle ère de solutions mobiles avec nous. Spécialisés dans le développement d'applications mobiles, nous sommes déterminés à donner vie à vos concepts les plus novateurs.",
+    "detail" : [
+    {
+    "type" : "text",
+    "title" : "Adaptabilité :",
+    "paragraph" : [
+      {
+        "title" : "Développement sur Mesure : ",
+        "text" : "Des applications mobiles uniques, conçues sur mesure pour répondre précisément à vos besoins et objectifs."
+      },
+
+      {
+        "title" : "Expertise Technique : ",
+        "text" : "Notre équipe d'experts maîtrise les dernières technologies mobiles pour garantir des performances optimales sur toutes les plateformes."
+      },
+      {
+        "title" : "Design Intuitif : ",
+        "text" : "Création d'interfaces utilisateur intuitives pour une expérience mobile fluide et mémorable."
+      },
+      {
+        "title" : "Support Continu : ",
+        "text" : "Nous restons à vos côtés même après le déploiement, assurant la maintenance et les mises à jour nécessaires."
+      }
+    ]
+    },
+    {
+    "type" :  "picture",
+    "pictures" : [
+      {"picture" :  "/pictures/mobile-development/02.jpg"},
+      {"picture" :  "/pictures/mobile-development/03.jpg"},
+      {"picture" :  "/pictures/mobile-development/04.jpg"},
+      {"picture" :  "/pictures/mobile-development/05.jpg"}
+    ]
+    },
+    {
+    "type" : "text",
+    "title" : "Pourquoi Choisir TechNCtrl ?",
+    "paragraph" : [
+      {
+        "title" : "Innovation Mobile : ",
+        "text" : "Des idées novatrices transformées en applications mobiles puissantes."
+      },
+      {
+        "title" : "Compatibilité Multiplateforme : ",
+        "text" : "Des applications qui fonctionnent sans faille sur iOS et Android."
+      },
+      {
+        "title" : "Évolutivité : ",
+        "text" : "Nos solutions mobiles sont conçues pour s'adapter à l'évolution de vos besoins."
+      },
+      {
+        "title" : "Respect des Délais : ",
+        "text" : "Nous comprenons l'importance des délais. Nos processus de développement efficaces garantissent des résultats rapides."
+      }
+    ]
+    }
+    ]
+    },
+    {
+    "id" : 3,
+    "key" : "desktop-development",
+    "name" : "Developpement Desktop",
+    "picture" : "/pictures/desktop-development/01.jpg",
+    "description": "Découvrez l'innovation simplifiée , votre partenaire de confiance pour le développement d'applications desktop sur Windows et Linux. Nous créons des solutions adaptées à vos besoins, offrant des performances exceptionnelles et une expérience utilisateur intuitive.",
+    "detail" : [
+    {
+    "type" : "text",
+    "title" : "À Propos de Nos Services :",
+      "noBreak" : true,
+    "paragraph" : [
+      {
+        "title" : "Adaptabilité : ",
+        "text" : "Des applications desktop conçues pour briller aussi bien sur Windows que sur Linux.\n\n"
+      },
+
+      {
+        "title" : "Technologies Avancées : ",
+        "text" : "Maîtrise des dernières technologies pour des applications évolutives et sécurisées."
+      },
+      {
+        "title" : "Interface Utilisateur Intuitive : ",
+        "text" : "Des designs intuitifs qui simplifient l'interaction utilisateur et améliorent la productivité."
+      },
+      {
+        "title" : "Développement Cross-Platform : ",
+        "text" : "Profitez d'une présence sur les deux principales plateformes sans compromis."
+      },
+      {
+        "title" : "Maintenance Évolutive : ",
+        "text" : "Des solutions desktop conçues pour grandir avec votre entreprise."
+      }
+    ]
+    },
+    {
+    "type" :  "picture",
+    "pictures" : [
+      {"picture" :  "/pictures/desktop-development/02.jpg"},
+      {"picture" :  "/pictures/desktop-development/03.jpg"},
+      {"picture" :  "/pictures/desktop-development/04.jpg"},
+      {"picture" :  "/pictures/desktop-development/05.jpg"}
+    ]
+    },
+    {
+    "type" : "text",
+    "title" : "Pourquoi Choisir TechNCtrl ?",
+    "paragraph" : [
+      {
+        "title" : "Expertise Technique : ",
+        "text" : "Une équipe qualifiée spécialisée dans le développement desktop."
+      },
+      {
+        "title" : "Engagement Qualité : ",
+        "text" : "Des applications desktop soumises à des tests rigoureux pour garantir une performance optimale."
+      },
+      {
+        "title" : "Collaboration Transparente : ",
+        "text" : "Une communication ouverte à chaque étape du processus de développement."
+      },
+      {
+        "title" : "Respect des Délais : ",
+        "text" : "Des processus efficaces pour respecter les échéances convenues."
+      },
+      {
+        "title" : "Support Continu : ",
+        "text" : "Un partenariat qui va au-delà de la livraison, avec un support continu et des mises à jour régulières."
+      }
+    ]
+    }
+    ]
+
+    },
+    {
+    "id" : 4,
+    "key" : "formation",
+    "name" : "Formation",
+    "picture" : "/pictures/formation/01.jpg",
+    "description": "Plongez dans le monde passionnant de la programmation informatique avec nos formations sur mesure. De débutants à professionnels expérimentés, TechNCtrl propose une gamme complète de cours adaptés à tous les niveaux.",
+    "detail" : [
+    {
+    "type" : "text",
+    "title" : "Formations en Programmation: Transformez votre Passion en Compétence :",
+    "paragraph" : [
+      {
+        "title" : "Cours de Développement Web: ",
+        "text" : "Apprenez les langages de programmation essentiels tels que HTML, CSS, JavaScript, ainsi que les frameworks populaires comme React, Angular et Vue.js pour créer des sites web dynamiques et interactifs."
+      },
+
+      {
+        "title" : "Formation en Développement Mobile: ",
+        "text" : "Découvrez comment créer des applications mobiles pour iOS et Android en utilisant des outils tels que Swift, Kotlin, et React Native, et explorez les meilleures pratiques de conception et de développement pour une expérience utilisateur optimale."
+      },
+      {
+        "title" : "Flexibilité: ",
+        "text" : "Que vous préfériez apprendre en ligne depuis le confort de votre domicile ou participer à des sessions en présentiel dans nos locaux, nous avons des options de formation flexibles pour répondre à vos besoins."
+      },
+      {
+        "title" : "Support Continu: ",
+        "text" : "Nous sommes engagés à vous aider à réussir. Nos programmes de formation comprennent un soutien continu de la part de nos instructeurs et de notre équipe pédagogique pour vous guider tout au long de votre parcours d'apprentissage.\n\n"
+      }
+    ]
+    },
+    {
+    "type" :  "picture",
+    "pictures" : [
+      {"picture" :  "/pictures/formation/02.jpg"},
+      {"picture" :  "/pictures/formation/03.jpg"},
+      {"picture" :  "/pictures/formation/04.jpg"},
+      {"picture" :  "/pictures/formation/05.jpg"}
+    ]
+    }
+
+    ]
+    },
+    {
+    "id" : 5,
+    "key" : "gestion-de-projet",
+    "name" : "Gestion de projet",
+    "picture" : "/pictures/gestion-de-projet/01.jpg",
+    "description": "Nous vous offrons une expertise en gestion de projet sur mesure. Nos solutions adaptées vous permettront de planifier, exécuter et surveiller vos projets de manière efficace et rentable. Contactez-nous dès aujourd'hui pour découvrir comment nous pouvons optimiser vos processus de gestion de projet et contribuer à votre succès commercial",
+    "detail" : [
+    {
+    "type" : "text",
+    "title" : "Gestion de Projet Professionnelle pour Votre Succès Commercial :",
+    "paragraph" : [
+      {
+        "text" : "Nous comprenons l'importance de la gestion de projet pour le succès de votre entreprise. Que vous développiez un nouveau produit, mettiez en œuvre une solution logicielle complexe ou planifiiez un événement d'entreprise, une gestion de projet efficace est essentielle pour garantir que vos objectifs soient atteints dans les délais et avec les ressources disponibles."
+      }
+    ]
+    },
+
+    {
+    "type" : "text",
+    "title" : "Nos services :",
+    "paragraph" : [
+      {
+        "title" : "Planification Stratégique: ",
+        "text" : "Notre équipe expérimentée travaillera en étroite collaboration avec vous pour élaborer une stratégie de projet claire et détaillée, en identifiant les objectifs, les livrables et les jalons clés."
+      },
+
+      {
+        "title" : "Exécution Agile: ",
+        "text" : "Nous sommes spécialisés dans les méthodologies agiles de gestion de projet, permettant une adaptation rapide aux changements et une livraison continue de valeur à chaque étape du processus."
+      },
+      {
+        "title" : "Surveillance et Suivi: ",
+        "text" : "Nous surveillons attentivement chaque phase de votre projet, en identifiant les risques potentiels, en résolvant les problèmes rapidement et en ajustant les plans au besoin pour garantir le succès final."
+      },
+      {
+        "title" : "Consultation Expert: ",
+        "text" : "Besoin de conseils sur la gestion de projet? Notre équipe de consultants chevronnés est là pour vous aider, en vous fournissant des conseils et des recommandations personnalisés basés sur les meilleures pratiques de l'industrie."
+      }
+    ]
+    },
+    {
+    "type" :  "picture",
+    "pictures" : [
+      {"picture" :  "/pictures/gestion-de-projet/02.jpg"}
+    ]
+    },
+    {
+    "type" : "text",
+    "title" : "Pourquoi Choisir TechNCtrl ?",
+    "paragraph" : [
+      {
+        "title" : "Expertise Professionnelle:",
+        "text" : "Notre équipe est composée de professionnels de la gestion de projet certifiés, ayant une vaste expérience dans divers secteurs d'activité, garantissant ainsi une gestion de projet de haute qualité et orientée vers les résultats."
+      },
+      {
+        "title" : "Approche Personnalisée:",
+        "text" : "Nous comprenons que chaque projet est unique. C'est pourquoi nous adoptons une approche personnalisée pour répondre aux besoins spécifiques de votre entreprise et de votre projet."
+      },
+      {
+        "title" : "Engagement envers l'Excellence: ",
+        "text" : " Nous sommes déterminés à fournir un service exceptionnel à chaque client, en mettant l'accent sur la qualité, la transparence et la communication ouverte à chaque étape du processus."
+      }
+    ]
+    },
+    {
+    "type" : "text",
+    "title" : "",
+    "paragraph" : [
+
+      {
+        "text" : "Que vous soyez une petite entreprise, une start-up en pleine croissance ou une grande entreprise, TechNCtrl est votre partenaire de confiance pour la gestion de projet. Contactez-nous dès aujourd'hui pour discuter de vos besoins en gestion de projet et commencer à transformer vos idées en réalité."
+      }
+    ]
+    }
+    ]
+    },
+    {
+    "id" : 6,
+    "key" : "consulting-digital-amoa",
+    "name" : "Consulting digital & AMOA",
+    "picture" : "/pictures/consulting-digital-amoa/01.jpg",
+    "description": "Nous sommes des experts en consulting digital et en Assistance à la Maîtrise d'Ouvrage (AMOA), prêts à vous accompagner dans votre transformation numérique. Nous comprenons que naviguer dans le paysage numérique en constante évolution peut être complexe, c'est pourquoi nous offrons une gamme complète de services de conseil pour vous aider à maximiser votre impact en ligne.",
+    "detail" : [
+    {
+    "type" : "text",
+    "title" : "Consulting Digital & AMOA: Maximisez l'Impact de Votre Transformation Numérique :",
+    "paragraph" : [
+      {
+        "title" : "",
+        "text" : "Chez TechNCtrl, nous sommes des experts en consulting digital et en Assistance à la Maîtrise d'Ouvrage (AMOA), prêts à vous accompagner dans votre transformation numérique. Nous comprenons que naviguer dans le paysage numérique en constante évolution peut être complexe, c'est pourquoi nous offrons une gamme complète de services de conseil pour vous aider à maximiser votre impact en ligne."
+      }
+    ]
+    },
+    {
+    "type" : "text",
+    "title" : "Nos Services :",
+    "paragraph" : [
+      {
+        "title" : "Stratégie Numérique: ",
+        "text" : "Notre équipe de consultants expérimentés travaillera en étroite collaboration avec vous pour élaborer une stratégie numérique sur mesure, alignée sur vos objectifs commerciaux et adaptée à vos besoins spécifiques."
+      },
+
+      {
+        "title" : "Optimisation des Processus:",
+        "text" : "Nous identifions les inefficacités dans vos processus actuels et proposons des solutions numériques innovantes pour les optimiser, améliorer l'efficacité opérationnelle et accroître la productivité."
+      },
+      {
+        "title" : "Gestion de Projet Digital: ",
+        "text" : "Nous assurons une gestion de projet efficace pour vos initiatives numériques, en veillant à ce que les projets soient livrés dans les délais et les budgets impartis, tout en répondant à vos exigences de qualité."
+      },
+      {
+        "title" : "AMOA",
+        "text" : "Notre équipe d'AMOA vous accompagne tout au long du cycle de vie de vos projets numériques, en veillant à ce que les besoins métier soient correctement compris, documentés et traduits en solutions technologiques efficaces."
+      }
+    ]
+    },
+    {
+    "type" :  "picture",
+    "pictures" : [
+      {"picture" :  "/pictures/consulting-digital-amoa/02.jpg"},
+      {"picture" :  "/pictures/consulting-digital-amoa/03.jpg"},
+      {"picture" :  "/pictures/consulting-digital-amoa/04.jpg"},
+      {"picture" :  "/pictures/consulting-digital-amoa/05.jpg"}
+    ]
+    },
+    {
+    "type" : "text",
+    "title" : "Pourquoi Choisir TechNCtrl ?",
+    "paragraph" : [
+      {
+        "title" : "Expertise Sectorielle: ",
+        "text" : "Nous possédons une expertise approfondie dans divers secteurs d'activité, ce qui nous permet de fournir des conseils pertinents et adaptés à votre industrie spécifique."
+      },
+      {
+        "title" : "Approche Personnalisée:",
+        "text" : " Nous comprenons que chaque entreprise est unique. C'est pourquoi nous adoptons une approche personnalisée pour chaque client, en fournissant des solutions sur mesure qui répondent à leurs besoins uniques."
+      },
+      {
+        "title" : "Résultats Mesurables:",
+        "text" : "Nous sommes déterminés à fournir des résultats tangibles à nos clients. Nous mesurons l'impact de nos interventions et ajustons notre approche en conséquence pour garantir le succès de chaque projet."
+      }
+
+    ]
+    },
+    {
+    "type" : "text",
+    "title" : "",
+    "paragraph" : [
+      {
+        "title" : "",
+        "text" : "Que vous soyez une start-up en pleine croissance ou une grande entreprise établie, TechNCtrl est votre partenaire de confiance pour le consulting digital et l'AMOA. Contactez-nous dès aujourd'hui pour discuter de vos besoins en transformation numérique et découvrir comment nous pouvons vous aider à atteindre vos objectifs."
+      }
+    ]
+    }
+    ]
+    },
+    {
+      "id" : 7,
+      "key" : "devops",
+      "name" : "DevOps",
+      "picture" : "/pictures/devops/01.jpg",
+      "description": "Nous sommes des experts en DevOps, prêts à vous aider à optimiser votre processus de développement logiciel et à améliorer l'efficacité de votre infrastructure informatique. Notre approche DevOps centrée sur les pratiques agiles et l'automatisation vous permettra d'accélérer le déploiement de vos applications et d'augmenter votre agilité opérationnelle.",
+      "detail" : [
+        {
+          "type" : "text",
+          "title" : "Services DevOps: Accélérez Votre Déploiement et Améliorez Votre Agilité Opérationnelle :",
+          "paragraph" : [
+            {
+              "text" : "Nous sommes des experts en DevOps, prêts à vous aider à optimiser votre processus de développement logiciel et à améliorer l'efficacité de votre infrastructure informatique. Notre approche DevOps centrée sur les pratiques agiles et l'automatisation vous permettra d'accélérer le déploiement de vos applications et d'augmenter votre agilité opérationnelle."
+            }
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "Nos Services",
+          "paragraph" : [
+            {
+              "title" : "Intégration Continue et Livraison Continue (CI/CD): ",
+              "text" : "Nous mettons en place des pipelines CI/CD robustes pour automatiser le processus de construction, de test et de déploiement de votre logiciel, vous permettant ainsi de livrer des fonctionnalités plus rapidement et plus fréquemment."
+            },  {
+              "title" : "Infrastructure en tant que Code (IaC):",
+              "text" : "Nous adoptons une approche d'IaC pour la gestion de votre infrastructure, en utilisant des outils comme Terraform et Ansible pour déployer et configurer de manière reproductible votre environnement informatique."
+            },  {
+              "title" : "Gestion des Conteneurs:",
+              "text" : "Nous utilisons des technologies de conteneurisation comme Docker et Kubernetes pour créer des environnements de développement et de production cohérents, évolutifs et hautement disponibles."
+            },  {
+              "title" : "Surveillance et Analyse des Performances:",
+              "text" : "Nous mettons en place des solutions de surveillance avancées pour suivre les performances de votre infrastructure et de vos applications en temps réel, afin d'identifier rapidement les problèmes et de garantir une disponibilité maximale."
+            }
+
+          ]
+        },
+        {
+          "type" :  "picture",
+          "pictures" : [
+            {"picture" :  "/pictures/devops/03.jpg"},
+            {"picture" :  "/pictures/devops/04.jpg"},
+            {"picture" :  "/pictures/devops/05.jpg"}
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "Pourquoi Choisir TechNCtrl ?",
+          "paragraph" : [
+            {
+              "title" : "Expertise Technique:",
+              "text" : "Notre équipe possède une expertise approfondie dans un large éventail de technologies DevOps, nous permettant de vous fournir des solutions innovantes et performantes adaptées à vos besoins spécifiques."
+            },
+            {
+              "title" : "Approche Collaborative:",
+              "text" : " Nous croyons en une collaboration étroite avec nos clients à chaque étape du processus DevOps, en nous assurant que vos besoins sont pleinement compris et intégrés dans nos solutions."
+            },
+            {
+              "title" : "Qualité et Fiabilité: ",
+              "text" : "Nous nous engageons à fournir des services de haute qualité et fiables qui répondent aux normes les plus élevées de l'industrie, garantissant ainsi la satisfaction de nos clients."
+            }
+          ]
+        } ,{
+          "type" : "text",
+          "title" : "",
+          "paragraph" : [
+            {
+              "text" : "Que vous soyez une start-up en pleine croissance ou une grande entreprise établie, TechNCtrl est votre partenaire de confiance pour la mise en œuvre réussie de pratiques DevOps. Contactez-nous dès aujourd'hui pour discuter de vos besoins et découvrir comment nous pouvons vous aider à accélérer votre transformation numérique."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "key" : "administration-reseaux-securite",
+      "name" : "Administration réseaux",
+      "picture" : "/pictures/administration-reseaux-securite/01.jpg",
+      "description": "Nous comprenons l'importance vitale de la sécurité et de la fiabilité de votre infrastructure réseau. Nos services d'administration réseau et de sécurité sont conçus pour vous aider à protéger vos données, à garantir la disponibilité de vos services et à maintenir l'intégrité de votre réseau.",
+      "detail" : [
+        {
+          "type" : "text",
+          "title" : "Administration Réseaux et Sécurité: Protégez Votre Infrastructure Numérique",
+          "paragraph" : [
+            {
+              "title" : "",
+              "text" : "Nous comprenons l'importance vitale de la sécurité et de la fiabilité de votre infrastructure réseau. Nos services d'administration réseau et de sécurité sont conçus pour vous aider à protéger vos données, à garantir la disponibilité de vos services et à maintenir l'intégrité de votre réseau."
+            }
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "Nos Services :",
+          "paragraph" : [
+            {
+              "title" : "Configuration et Maintenance Réseau: ",
+              "text" : "Nous prenons en charge la configuration et la maintenance de votre infrastructure réseau, en veillant à ce qu'elle soit optimisée pour répondre à vos besoins opérationnels et à assurer une connectivité fiable et sécurisée."
+            },
+
+            {
+              "title" : "Surveillance en Temps Réel:",
+              "text" : "Nous mettons en place des systèmes de surveillance avancés pour surveiller votre réseau 24h/24 et 7j/7, en identifiant rapidement les anomalies et les menaces potentielles afin d'intervenir rapidement et efficacement."
+            },
+            {
+              "title" : "Gestion des Pare-feux et des Filtres: ",
+              "text" : "Nous configurons et gérons des pare-feux et des filtres de sécurité pour contrôler le trafic entrant et sortant de votre réseau, en empêchant les intrusions non autorisées et en protégeant vos données sensibles."
+            },
+            {
+              "title" : "Audit de Sécurité: ",
+              "text" : "Nous effectuons des audits de sécurité réguliers pour évaluer la résilience de votre infrastructure face aux menaces actuelles, en identifiant les vulnérabilités et en proposant des solutions pour renforcer votre posture de sécurité."
+            }
+          ]
+        },
+        {
+          "type" :  "picture",
+          "pictures" : [
+            {"picture" :  "/pictures/administration-reseaux-securite/02.jpg"}
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "Pourquoi Choisir TechNCtrl ?",
+          "paragraph" : [
+            {
+              "title" : "Expertise Technique: ",
+              "text" : "Notre équipe d'experts en administration réseau et en sécurité possède une vaste expérience dans la conception, la mise en œuvre et la gestion d'infrastructures réseau complexes, garantissant ainsi des solutions de haute qualité et fiables."
+            },
+
+            {
+              "title" : "Approche Personnalisée: ",
+              "text" : " Nous comprenons que chaque entreprise a des besoins et des exigences uniques en matière de sécurité et d'administration réseau. C'est pourquoi nous adoptons une approche personnalisée pour chaque client, en fournissant des solutions sur mesure qui répondent à leurs besoins spécifiques."
+            },
+            {
+              "title" : "Engagement envers la Sécurité: ",
+              "text" : "Nous sommes déterminés à assurer la sécurité et la protection de vos données et de votre infrastructure. Nous travaillons en étroite collaboration avec vous pour mettre en œuvre les meilleures pratiques de sécurité et garantir une protection maximale contre les menaces en ligne."
+            }
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "",
+          "paragraph" : [
+            {
+              "title" : "Expertise Technique: ",
+              "text" : "Que vous soyez une petite entreprise ou une grande organisation, TechNCtrl est votre partenaire de confiance pour l'administration réseau et la sécurité. Contactez-nous dès aujourd'hui pour discuter de vos besoins en matière de sécurité et découvrir comment nous pouvons vous aider à protéger votre entreprise contre les cybermenaces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "key" : "administration-systeme",
+      "name" : "Administration systeme",
+      "picture" : "/pictures/administration-systeme/01.jpg",
+      "description": "Nous sommes des experts en administration système, prêts à vous aider à maximiser la performance et la fiabilité de vos systèmes informatiques. Que vous ayez besoin d'une gestion proactive de votre infrastructure ou d'une assistance ponctuelle pour résoudre des problèmes techniques, notre équipe qualifiée est là pour répondre à vos besoins.",
+      "detail" : [
+        {
+          "type" : "text",
+          "title" : "Administration Système: Optimisez la Performance et la Fiabilité de Vos Systèmes Informatiques",
+          "paragraph" : [
+            {
+              "title" : "",
+              "text" : "Nous sommes des experts en administration système, prêts à vous aider à maximiser la performance et la fiabilité de vos systèmes informatiques. Que vous ayez besoin d'une gestion proactive de votre infrastructure ou d'une assistance ponctuelle pour résoudre des problèmes techniques, notre équipe qualifiée est là pour répondre à vos besoins."
+            }
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "Nos Services :",
+          "paragraph" : [
+            {
+              "title" : "Gestion Proactive des Systèmes: ",
+              "text" : "Nous prenons en charge la gestion proactive de vos systèmes informatiques, en assurant la surveillance continue de la santé du système, les mises à jour logicielles et matérielles, ainsi que la résolution anticipée des problèmes potentiels."
+            },
+
+            {
+              "title" : "Maintenance et Support: ",
+              "text" : " Nous offrons une gamme complète de services de maintenance et de support pour garantir le bon fonctionnement de vos systèmes, y compris la résolution rapide des pannes, les sauvegardes régulières des données et la gestion des correctifs de sécurité."
+            },
+            {
+              "title" : "Optimisation des Performances: ",
+              "text" : "Nous analysons vos systèmes pour identifier les goulots d'étranglement et les inefficacités, puis nous mettons en œuvre des solutions pour optimiser les performances et améliorer l'efficacité opérationnelle"
+            },
+            {
+              "title" : "Sécurité des Systèmes: ",
+              "text" : "Nous mettons en place des mesures de sécurité robustes pour protéger vos systèmes contre les menaces externes et internes, en veillant à ce que vos données sensibles soient sécurisées et à l'abri des cyberattaques."
+            }
+          ]
+        },
+        {
+          "type" :  "picture",
+          "pictures" : [
+            {"picture" :  "/pictures/administration-systeme/02.jpg"},
+            {"picture" :  "/pictures/administration-systeme/03.jpg"}
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "Pourquoi Choisir TechNCtrl ?",
+          "paragraph" : [
+
+            {
+              "title" : "Expertise Technique: ",
+              "text" : "Notre équipe d'administrateurs système expérimentés possède une expertise approfondie dans la gestion de divers environnements informatiques, des serveurs sur site aux infrastructures cloud complexes."
+            },
+            {
+              "title" : "Service Personnalisé: ",
+              "text" : "Nous comprenons que chaque entreprise a des besoins et des exigences uniques en matière d'administration système. C'est pourquoi nous travaillons en étroite collaboration avec vous pour fournir des solutions sur mesure qui répondent à vos besoins spécifiques."
+            },
+            {
+              "title" : "Engagement envers la Qualité: ",
+              "text" : "Nous nous engageons à fournir un service de haute qualité et fiable à chaque client, en mettant l'accent sur la satisfaction du client, la transparence et la communication ouverte à chaque étape du processus."
+            }
+          ]
+        },
+        {
+          "type" : "text",
+          "title" : "",
+          "paragraph" : [
+            {
+              "title" : "",
+              "text" : "Que vous soyez une petite entreprise ou une grande organisation, TechNCtrl est votre partenaire de confiance pour l'administration système. Contactez-nous dès aujourd'hui pour discuter de vos besoins en matière d'administration système et découvrir comment nous pouvons vous aider à optimiser vos systèmes informatiques pour une performance maximale."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "careerOption" : [
+    {"id" : 1, "name" : "Ingénierie" },
+    {"id" : 2, "name" : "Autres" }
+  ],
+  "careers" : [
+
+  ],
+  "app" : [
+    {
+      "link" : "https://kiiako.io/",
+      "name" : "Kiiako"
+    }
+  ],
+  "partners" : [
+
+  ],
+  "team" : [
+    {
+      "id" : 1,
+      "name" : "PIOU Hassan",
+      "role" : "Founder",
+      "facebook" : "https://www.facebook.com/hassanpiou.piou/",
+      "linkedin" : "https://www.linkedin.com/in/hassan-piou-a16436180/",
+      "picture" : "/pictures/team/01.png"
+    },
+    {
+      "id" : 2,
+      "name" : "Dissirama KONTOOU",
+      "role" : "Communication & Marketing",
+      "facebook" : "https://www.facebook.com/hassanpiou.piou/",
+      "linkedin" : "https://www.linkedin.com/in/dissirama-esso-issoou-germain-kontoou-824b62190/",
+      "picture" : "/pictures/team/03.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "FOLISSON-G H. Fidelis",
+      "role" : "Graphic  Designer",
+      "facebook" : "https://www.facebook.com/hassanpiou.piou/",
+      "linkedin" : "https://www.linkedin.com/in/dissirama-esso-issoou-germain-kontoou-824b62190/",
+      "picture" : "/pictures/team/02.jpg"
+    }
+  ],
+  "works" : [
+    {
+      "name" : "",
+      "link" : "",
+      "customer" : "",
+      "category" : "",
+      "start_at" : "",
+      "end_at" : "",
+      "picture" : "",
+      "description" : {
+          "intro" : "",
+          "challenge" : "",
+           "pictures" : [],
+          "summary" : "",
+           "video" : "",
+          "conclusion" : ""
+      }
+    }
+  ],
+  "mail" : "info@technctrl.com",
+  "facebook" : "https://www.facebook.com/profile.php?id=61556459043460",
+  "linkedin" : "https://www.linkedin.com/company/102578082",
+  "youtube" : "youtube",
+   "portfolio" : [
+     {
+        "name" : "Kiiako SaaS",
+        "link" : "https://kiiako.io",
+       "category" : "Developpement Web et mobile",
+        "started_at" : "2022-12-18",
+        "end_at" : "2024-03-15",
+        "picture" : "/pictures/portfolio/kiiako/kiiako-saas.png",
+        "customer" : "TechNCtrl",
+        "slug" : "kiiako-saas",
+        "detail" : [
+          {
+            "type" : "text",
+            "title" : "",
+            "paragraph" : [
+              {
+                "type" : "h2",
+                 "text" : "Libérez votre potentiel commercial :"
+              },
+              {
+                "type" : "p",
+                "text" : "Bienvenue dans l'univers de Kiiako - la plateforme SaaS ultime pour lancer et faire prospérer votre boutique en ligne. Conçu pour les entrepreneurs ambitieux, notre solution tout-en-un offre tout ce dont vous avez besoin pour créer, gérer et développer votre entreprise en ligne avec facilité et succès."
+              }
+            ]
+          },
+          {
+            "type" : "list",
+            "title" : "",
+            "list" : [
+              {
+                "title" : "Créez une boutique en ligne remarquable :",
+                "text" : "Avec des thèmes personnalisables et une interface intuitive, donnez vie à votre vision et créez une expérience de magasinage en ligne captivante pour vos clients."
+              },
+              {
+                "title" : "Gérez votre entreprise en toute simplicité : ",
+                "text" : "Grâce à des outils de gestion puissants, suivez vos commandes, gérez votre inventaire et analysez vos performances, le tout depuis un tableau de bord centralisé."
+              },
+              {
+                "title" : "Développez votre activité avec confiance :",
+                "text" : "Bénéficiez de fonctionnalités avancées telles que le marketing par e-mail, les rapports analytiques détaillés et les intégrations avec des applications tierces pour stimuler la croissance de votre entreprise."
+              }
+            ]
+          },
+          {
+            "type" :  "picture",
+            "title" : "UI design de qualité",
+            "pictures" : [
+              {"picture" :  "/pictures/portfolio/kiiako/dashboard__kiiako.png"},
+              {"picture" :  "/pictures/portfolio/kiiako/marketplace__kiiako.png"}
+            ]
+          },
+          {
+            "type" : "list",
+            "title" : "Une expérience utilisateur incomparable :",
+            "list" : [
+              {
+                "title" : "Convivialité et accessibilité :",
+                "text" : "Notre interface conviviale est conçue pour être facile à utiliser pour tous, des débutants aux experts en commerce électronique, afin que vous puissiez vous concentrer sur ce qui compte vraiment - la croissance de votre entreprise."
+              } ,
+              {
+                "title" : "Assistance dédiée :",
+                "text" : " Notre équipe d'experts est là pour vous accompagner à chaque étape de votre parcours, offrant un support technique réactif et des conseils stratégiques pour vous aider à réussir."
+              }
+
+            ]
+          },
+
+          {
+            "type" : "list",
+            "title" : "Sécurité et fiabilité de niveau professionnel : ",
+            "list" : [
+              {
+                "title" : "Sécurité de pointe :",
+                "text" : "Protégez les données sensibles de votre entreprise et de vos clients grâce à des protocoles de sécurité robustes et à une conformité réglementaire rigoureuse."
+              } ,
+              {
+                "title" : "Disponibilité 24/7 : ",
+                "text" : "Profitez d'une disponibilité sans faille de votre boutique en ligne grâce à une infrastructure cloud hautement fiable et à une surveillance proactive."
+              }
+
+            ]
+          },
+
+          {
+            "type" :  "picture",
+            "title" : "",
+            "pictures" : [
+              {"picture" :  "/pictures/portfolio/kiiako/product__kiiako.png"},
+              {"picture" :  "/pictures/portfolio/kiiako/withdraw__kiiako.png"}
+            ]
+          },
+
+          {
+            "type" : "text",
+            "title" : "",
+            "paragraph" : [
+              {
+                "type" : "h2",
+                "text" : "Prêt à transformer votre vision en réalité ?"
+              },
+              {
+                "type" : "p",
+                "text" : "Rejoignez des milliers d'entrepreneurs prospères qui font confiance à Kiiako pour créer et gérer leurs boutiques en ligne avec succès. Lancez-vous dès aujourd'hui et commencez à bâtir l'entreprise de vos rêves avec notre plateforme SaaS tout-en-un."
+              }
+            ]
+          }
+        ]
+     }
+   ]
+}
