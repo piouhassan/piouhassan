@@ -694,9 +694,9 @@
      {
         "name" : "Kiiako SaaS",
         "link" : "https://kiiako.io",
-       "category" : "Developpement Web et mobile",
+        "category" : "development",
         "started_at" : "2022-12-18",
-        "end_at" : "2024-03-15",
+        "end_at" : "2024-08-20",
         "picture" : "/pictures/portfolio/kiiako/kiiako-saas.png",
         "customer" : "TechNCtrl",
         "slug" : "kiiako-saas",
