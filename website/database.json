@@ -639,7 +639,9 @@
     }
   ],
   "partners" : [
-
+    {
+      "name" : "Doctagné"
+    }
   ],
   "team" : [
     {
