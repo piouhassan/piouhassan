@@ -165,9 +165,7 @@
     "type" :  "picture",
     "pictures" : [
       {"picture" :  "/pictures/desktop-development/02.jpg"},
-      {"picture" :  "/pictures/desktop-development/03.jpg"},
-      {"picture" :  "/pictures/desktop-development/04.jpg"},
-      {"picture" :  "/pictures/desktop-development/05.jpg"}
+      {"picture" :  "/pictures/desktop-development/03.jpg"}
     ]
     },
     {
@@ -694,7 +692,7 @@
   "youtube" : "youtube",
    "portfolio" : [
      {
-        "name" : "Kiiako SaaS",
+        "name" : "Kiiako",
         "link" : "https://kiiako.io",
         "category" : "development",
         "started_at" : "2022-12-18",
