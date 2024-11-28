@@ -808,6 +808,7 @@
       "picture" : "/pictures/portfolio/doctagne/doctagne.png",
       "customer" : "Doctagne",
       "slug" : "doctagne",
+       "logo" : "/pictures/portfolio/doctagne/logo.png",
       "detail" : [
         {
           "type" : "text",
