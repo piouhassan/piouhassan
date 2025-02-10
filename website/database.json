@@ -638,7 +638,8 @@
   ],
   "partners" : [
     {
-      "name" : "Doctagné"
+      "name" : "Doctagné",
+      "logo" : "/pictures/portfolio/doctagne/logo.png"
     }
   ],
   "team" : [
